@@ -3,7 +3,7 @@
     
     width: 100%;
     padding: 10px;
-    
+    length=100%;
 }
 #navid{
     color:white;
@@ -25,6 +25,7 @@
 }
 #search-id{
     padding: 0px; width: 100%;
+
 }
 .btn{
     padding: 5px;
